@@ -12,7 +12,7 @@
 .header{
     position:sticky;
     top: 0;
-    background-color: rgb(236, 244, 243);
+    background-color: rgb(41, 111, 141);
     padding: 15px;
     
 }
@@ -42,7 +42,7 @@
 }
 
 .Center .mycard{
-    background-color: rgb(70, 52, 34);
+    background-color: rgb(41, 111, 141);
     color:white;
     flex-direction: column;
     text-align: center;
@@ -83,11 +83,11 @@
     
 }
 .content h2{
-    color: rgb(109, 62, 56);
+    color: rgb(41, 111, 141);
 }
 .content button{
     margin-bottom: 2%;
-    background-color:blueviolet;
+    background-color:rgb(103, 59, 144);
     color: rgb(255, 255, 255);
     font-size: 17px;
     padding: 15px;
